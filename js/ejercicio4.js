@@ -1,0 +1,1 @@
+document.write = "la respuesta es B";
